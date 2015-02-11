@@ -1,0 +1,7 @@
+.svn/
+./result*
+.DS_Store
+.classpath
+.ignore
+.project
+.settings/
